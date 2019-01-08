@@ -1,0 +1,6 @@
+data/cache/
+.idea
+/data/database.php
+attachment/images/
+data/database.php
+data/install.lock
